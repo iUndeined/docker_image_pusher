@@ -1,5 +1,1 @@
-nginx:1.27
-redis:6.2
-redis:7.2
-rabbitmq:3-management
-bitnami/minio:2024.6.22
+nacos/nacos-server:v2.3.2
