@@ -1,1 +1,1 @@
-neo4j:4.4-community
+busybox:1.35 --platform=linux/arm64
