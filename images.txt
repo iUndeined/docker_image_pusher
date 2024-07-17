@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.9.1
+nacos/nacos-server:2.0.3
