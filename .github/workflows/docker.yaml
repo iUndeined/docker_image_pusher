@@ -105,10 +105,14 @@ jobs:
             if echo "$line" | grep -q '^\s*#'; then
                 continue
             fi
+            echo "line string before process > $line"
+            
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             custom_prefix=$(echo "$line" | awk -F'--prefix[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             line=$(echo "$line" | sed 's/--prefix//g' | xargs -n1)
 
+            echo "line string after process > $line"
+            
             echo "docker pull $line"
             docker pull $line
             
