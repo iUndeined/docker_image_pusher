@@ -1,1 +1,2 @@
-snowdreamtech/frpc:0.59
+kibana:7.17.23
+kibana:8.15.1
