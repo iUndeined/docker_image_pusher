@@ -1,2 +1,1 @@
-kibana:7.17.23
-kibana:8.15.1
+kibana:7.9.3
