@@ -1,1 +1,1 @@
-kibana:7.9.3
+--prefix=jumpserver jumpserver/jms_all:latest
