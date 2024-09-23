@@ -1,1 +1,1 @@
---prefix=jumpserver jumpserver/jms_all:latest
+mysql:5.7.44
