@@ -1,1 +1,1 @@
-apache/doris:doris-all-in-one-2.1.0
+snowdreamtech/frps:0.61
