@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.61
+snowdreamtech/frpc:0.61
