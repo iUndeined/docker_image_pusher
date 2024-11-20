@@ -1,2 +1,1 @@
-apache/doris:doris-fe-2.1.7
-apache/doris:doris-be-2.1.7
+apache/doris:build-env-for-2.0-no-avx2
