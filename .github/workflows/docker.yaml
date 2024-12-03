@@ -120,12 +120,12 @@ jobs:
             if [ -z "$platform" ]; then
                 platform_prefix=""
             else
-                platform_prefix="${platform//\//_}_"
+                platform_prefix="${platform//\//_}-"
             fi
             if [ -z "$custom_prefix" ]; then
                 just_prefix=""
             else
-                just_prefix="${custom_prefix//\//_}_"
+                just_prefix="${custom_prefix//\//_}-"
             fi
             echo "platform_prefix is $platform_prefix"
             # 获取镜像的完整名称，例如kasmweb/nginx:1.25.3（命名空间/镜像名:版本号）
@@ -143,7 +143,7 @@ jobs:
             if [[ -n "${duplicate_images[$image_name]}" ]]; then
                #如果命名空间非空，将命名空间加到前缀
                if [[ -n "${name_space}" ]]; then
-                  name_space_prefix="${name_space}_"
+                  name_space_prefix="${name_space}-"
                fi
             fi
             
