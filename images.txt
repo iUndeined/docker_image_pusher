@@ -1,4 +1,2 @@
---prefix=kuboard eipwork/kuboard-agent:v3
---prefix=kuboard questdb/questdb:6.0.5
---prefix=kuboard eipwork/etcd-host:3.4.16-2
---prefix=kuboard eipwork/kuboard:v3
+eipwork/kuboard-agent:v3
+eipwork/kuboard:v3
