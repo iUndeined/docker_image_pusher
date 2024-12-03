@@ -1,2 +1,1 @@
-eipwork/kuboard-agent:v3
-eipwork/kuboard:v3
+nacos/nacos-server:v2.0.4-slim
