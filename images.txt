@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.0.4-slim
+--prefix=jenkins jenkins/inbound-agent:latest-jdk11
