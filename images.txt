@@ -1,4 +1,4 @@
---prefix=kuboard swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-agent
---prefix=kuboard swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/questdb:6.0.4
---prefix=kuboard swr.cn-east-2.myhuaweicloud.com/kuboard/etcd-host:3.4.16-2
---prefix=kuboard swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
+--prefix=kuboard eipwork/kuboard-agent
+--prefix=kuboard questdb/questdb:6.0.5
+--prefix=kuboard eipwork/etcd-host:3.4.16-2
+--prefix=kuboard eipwork/kuboard:v3
