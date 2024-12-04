@@ -1,1 +1,1 @@
---prefix=jenkins jenkins/inbound-agent:latest-jdk11
+--prefix=jenkins jenkins/inbound-agent:3206.vb_15dcf73f6a_9-3-jdk11
