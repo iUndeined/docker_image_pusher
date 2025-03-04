@@ -1,1 +1,2 @@
-k8s.gcr.io/coredns:1.7.0
+--prefix=calico calico/node:v3.15.1
+k8s.gcr.io/kube-proxy:v1.20.4
