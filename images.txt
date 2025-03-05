@@ -1,2 +1,1 @@
---prefix=calico calico/cni:v3.15.1
---prefix=calico calico/pod2daemon-flexvol:v3.15.1
+quay.io/minio/minio:RELEASE.2023-09-04T19-57-37Z
