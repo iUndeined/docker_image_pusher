@@ -1,1 +1,3 @@
-quay.io/minio/minio:RELEASE.2023-09-04T19-57-37Z
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
+langgenius/dify-plugin-daemon:0.0.3-local
