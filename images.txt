@@ -1,1 +1,1 @@
-hub.zentao.net/app/zentao:21.5
+mariadb:10.6
