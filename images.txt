@@ -1,1 +1,1 @@
-qwenllm/qwen-omni:2.5-cu121
+xrwang8/qwen-omni:2.5-cu121-dev-xrwang-0408
