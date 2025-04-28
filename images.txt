@@ -1,1 +1,1 @@
-xrwang8/qwen-omni:2.5-cu121-dev-xrwang-0408
+python:3.12.10
