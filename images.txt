@@ -1,1 +1,1 @@
-vastdata/vastbase-vector
+bitnami/minio:2025.4.22-debian-12-r1
