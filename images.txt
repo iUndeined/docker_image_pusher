@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:17
+--platform=linux/arm64/v8 postgres:17
