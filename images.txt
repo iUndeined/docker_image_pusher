@@ -1,1 +1,4 @@
---platform=linux/arm64/v8 postgres:17
+langgenius/dify-api:1.5.1
+langgenius/dify-web:1.5.1
+oceanbase/oceanbase-ce:4.3.5-lts
+matrixorigin/matrixone:2.1.1
