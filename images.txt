@@ -1,4 +1,1 @@
-langgenius/dify-api:1.4.2
-langgenius/dify-web:1.4.2
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.1.2-local
+--platform=linux/arm64 postgres:17
