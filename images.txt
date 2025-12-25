@@ -1,3 +1,5 @@
-sonatype/nexus3:3.67.1-java11
-nacos/nacos-server:v2.3.2
-gitlab/gitlab-ce
+langgenius/dify-api:1.11.1
+langgenius/dify-web:1.11.1
+langgenius/dify-plugin-daemon:0.5.1-local
+langgenius/dify-sandbox:0.2.12
+semitechnologies/weaviate:1.27.0
