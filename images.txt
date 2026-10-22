@@ -1,3 +1,9 @@
-python:3.12-slim
-node:22-slim
-nginx:1.27-alpine
+registry.k8s.io/kube-apiserver:v1.36.5
+registry.k8s.io/kube-controller-manager:v1.36.5
+registry.k8s.io/kube-scheduler:v1.36.5
+registry.k8s.io/kube-proxy:v1.36.5
+registry.k8s.io/coredns/coredns:v1.14.2
+registry.k8s.io/pause:3.10.2
+registry.k8s.io/etcd:3.6.8-0
+ghcr.io/flannel-io/flannel:v0.28.10
+ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel3
