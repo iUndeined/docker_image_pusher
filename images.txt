@@ -1,1 +1,1 @@
-doctorkirk/oracle-19c:latest
+jenkins/jenkins:2.588-jdk25
