@@ -1,1 +1,1 @@
-flink:2.3-scala_2.12-java21
+apache/hive:standalone-metastore-4.2.1
