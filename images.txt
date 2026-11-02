@@ -1,1 +1,1 @@
-jenkins/inbound-agent:jdk8
+mysql:8.4
